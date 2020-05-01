@@ -9,18 +9,18 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "https://correctness-workshop.github.io/2019"
+url: "https://correctness-workshop.github.io/2020"
 enforce_ssl: ""
-baseurl: "/2019"
+baseurl: "/2020"
 
 # Title of website
-title: Correctness 2019
+title: Correctness 2020
 
 #Default keywords (used if no keywords are specified on a page basis)
 keywords: correctness, testing, verification, debugging, formal methods
 
 # Short description of your site
-desc: Correctness Workshop 2019
+desc: Correctness Workshop 2020
 
 # --- Navigation bar options --- #
 

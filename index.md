@@ -1,6 +1,6 @@
 ---
 layout: template1
-title: Correctness 2019
+title: Correctness 2020
 comments: false
 ---
 
@@ -17,11 +17,11 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 ##### In cooperation with [![SIGHPC](/img/SIGhpc_logo_small.png)](http://www.sighpc.org)
 -->
 
-<center><h2>Correctness 2019: Third International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 18, 2019 (full day) </h4></center>
-<center><h4> Colorado Convention Center, <font color="0000FF">Room: 712</font> </h4></center>
-<center><h4> Denver, Colorado, USA </h4></center>
-<center><h5> Held in conjunction with SC19: <a href="https://sc19.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h2>Correctness 2020: Fourth International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November 15, 2020 (half day) </h4></center>
+<center><h4> Georgia World Congress Center, <font color="0000FF">Room: TBD</font> </h4></center>
+<center><h4> Atlanta, Georgia, USA </h4></center>
+<center><h5> Held in conjunction with SC20: <a href="https://sc20.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -90,12 +90,14 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
+<!---
 <font color="FF0404">Due to several requests, we have extended the submission deadline to Aug/19 (we will not make further extensions).</font>
+-->
 
-* Paper submissions due: ~~August 9, 2019~~ **Extended:** August 19, 2019 
-* Notification of acceptance: September 20, 2019
-* E-copyright registration completed by authors (firm): ~~October 3, 2019~~ TBD
-* Camera-ready papers due (firm): ~~October 8, 2019~~ TBD 
+* Paper submissions due: August 10, 2020
+* Notification of acceptance: September 21, 2020
+* E-copyright registration completed by authors (firm): October 7, 2020
+* Camera-ready papers due (firm): October 9, 2020 
 
 All time zones are AOE.
 
@@ -112,129 +114,38 @@ All time zones are AOE.
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
+[Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
 [Jeff Huang](https://parasol.tamu.edu/~jeff/), Texas A&M University, USA <br />
 [Geoffrey C. Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
-[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), Pacific Northwest National Laboratory, USA <br />
 [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
-[Jackson Mayo]( http://www.sandia.gov/), Sandia National Laboratories, USA <br />
+[Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
+[Eric Petit](), Intel Corporation, France <br />
+[Joachim Protze](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
 [Tristan Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
-[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France <br />
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
+[Stephen F. Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA  <br />
+[Tristan Vanderbruggen](https://people.llnl.gov/vanderbrugge1), Lawrence Livermore National Laboratory, USA <br />
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-The Colorado Convention Center <br />
-700 14th St, Denver, CO 80202 <br />
-<font color="0000FF">Room: 712</font>
+Georgia World Congress Center <br />
+285 Andrew Young International Blvd NW, Atlanta, GA 30313 <br />
+<font color="0000FF">Room: TBD</font>
 
 ---
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-**Keynote Speaker 1 (Morning Session)**
-<br />
 
-#### [Alex Aiken](http://theory.stanford.edu/~aiken/), Alcatel-Lucent Professor of Computer Science, Stanford University
-<img src="img/aiken2019.jpg" alt="Alex Aiken" width="180">
-
-**Bio:**
-Alex Aiken is the Alcatel-Lucent Professor of Computer Science at Stanford. Alex received his Bachelors degree in Computer Science and Music from Bowling Green State University in 1983 and his Ph.D. from Cornell University in 1988. Alex was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. His research interest is in areas related to programming languages. He is an ACM Fellow, a recipient of ACM SIGPLAN's Programming Languages Achievement Award and Phi Beta Kappa's Teaching Award, and a former chair of the Stanford Computer Science Department.
-
-<br />
-#### *Reasoning About Floating Point in the Real World*
-
-**Abstract:** The formal verification of floating point code as it exists in widely-used, highly-optimized libraries is very challenging, in fact so challenging that formal proofs, where they exist, are done manually.  This talk will discuss a combination of recent results that allow some important codes to be verified fully automatically, as well as additional challenges that have yet to be overcome.
-
-<br />
-
-**Keynote Speaker 2 (Afternoon Session)**
-<br />
-
-#### [Allison Baker](https://staff.ucar.edu/users/abaker), Project Scientist III, National Center for Atmospheric Research (NCAR)
-<img src="img/abaker.jpg" alt="Allison Baker" width="180">
-
-**Bio:**
-Allison Baker is a Project Scientist III at the National Center for Atmospheric Research (NCAR). Her research interests include high-performance computing, performance analysis, iterative linear solvers, Earth System models, data compression, and verification techniques. She earned her B.S. in Mechanical Engineering from Rice University and her Ph.D. in Applied Mathematics from the University of Colorado in 2003. Then she joined the Center for Applied Scientific Computing at Livermore National Laboratory, where she made contributions to parallel algebraic multigrid methods and preparations for exascale computing as part of the HYPRE solvers team. In 2012, she joined the Application Scalability and Performance group at NCAR and works primarily on improvement efforts for the the Community Earth System Model (CESM).  Most recently, she has led the development of tools for determining whether CESM climate runs are statistically distinguishable (for scenarios where bit-for-bit reproducibility is not possible) and an investigation into the feasibility and science implications of applying lossy data compression to CESM output data.
-
-<br />
-#### *Contained Chaos: Quality Assurance for the Community Earth System Model*
-
-**Abstract:** State-of-the-science climate model are valuable tools for understanding past and present climates and are particularly vital for addressing otherwise intractable questions about future climate scenarios.  Because the simulation output may affect societal responses to the changing climate, maintaining model confidence and reliability is critical for institutions like the National Center for Atmospheric research, which leads the development of the popular Community Earth System Model (CESM).  CESM models the Earth system by simulating the major Earth system components (e.g., atmosphere, ocean, land, river, ice, etc.) and the interactions between them.  These complex processes result in a model that is inherently chaotic, meaning that small perturbations can cause large effects.  For this reason, ensemble methods are common in climate studies, as a collection of simulations are needed to understand and characterize this uncertainty in the climate model system.  While climate scientists typically use initial condition perturbations to create ensemble spread, similar effects can result from seemingly minor changes to the hardware or software stack.  This sensitivity makes quality assurance challenging, and defining "correctness" separately from bit-reproducibility is really a practical necessity. Our approach casts correctness in terms of statistical distinguishability such that the problem becomes one of making decisions under uncertainty in a high-dimensional variable space.  We developed a statistical testing framework that can be thought of as hypothesis testing combined with Principal Component Analysis (PCA), which not only captures changes in individual variables but in the relationship between variables as well. We are currently delving into the technical details of the PCA analysis to better describe the probabilistic properties of our testing framework and improve its robustness. In other recent work, we are developing tools to identify and understand the reason for statistically distinct output that will aid developers in root cause analysis.  This talk will overview our multi-year effort to better evaluate the correctness of CESM and detail promising recent developments.
-
-<br />
-
-**Invited Industry Talk (Afternoon Session)**
-<br />
-
-
-#### *Taming the Digital Wild West: Using Domain Specific Languages to Enforce Correctness Properties in Data Science, Machine Learning, and Scientific Modeling*
-[Galois, Inc.](https://galois.com/)
-
-**Abstract:** Recent advances in machine learning and data science have resulted in a sort of digital gold rush.  Early wins for classification, regression, and deep learning have been driven by advertising and recommendation systems.  The cost of errors in these systems is low, which has led to a prioritization of minimizing execution time, often without regard to correctness considerations.  These priorities have resulted in many state-of-the-art methods operating as a black box which often fails to generalize.  In this talk we discuss the use of domain specific languages (DSLs) to address these short comings, build trust in algorithms and the correctness of their results, and to improve the accessibility of machine learning and data science algorithms and methods to scientists, policy makers, and other users with critical application areas.  We present the advantages of both embedded and stand-alone DSLs for not only usability and performance, but also for analysis and formal reasoning; discuss the use of DSLs to enforce different types of correctness constraints in domain models; the challenges presented by proving the implementation of a DSL is correct; and examples of successful application of DSLs by domain scientists.
-
-<br />
-<br />
+TBD
 
 #### Workshop Schedule
+<br />
 
-
-###### Keynote 1
-<table>
-<tr><td width="15">  </td> <td>09:00am - 09:05am:  Opening remarks    </td> </tr>
-<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1:  <b>"Reasoning About Floating Point in the Real World"</b>, Alex Aiken (Stanford University) </td> </tr>
-</table>
-
-###### Break
-<table>
-<tr><td width="15">  </td> <td><font color="007700">10:00am - 10:30am:  Break (coffee provided by SC19) </font></td> </tr>
-</table>
-
-
-
-###### Debugging Tools (Chair: Michael Lam)
-<table>
-
-<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
-
-<tr><td width="15">  </td> <td>11:00am - 11:30am:  <b>"Exploring Regression of Data Race Detection Tools Using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao, Markus Schordan, Ian Karlin </td> </tr>
-</table>
-
-###### Floating-Point Mixed Precision (Chair: Emmanuelle Saillard)
-<table>
-<tr><td width="15">  </td> <td>11:30am - 12:00pm:  <b>"Toward Multi-Precision, Multi-Format Numerics"</b>, David Thien, Bill Zorn, Pavel Panchekha, Zachary Tatlock </td> </tr>
-
-<tr><td width="15">  </td> <td>12:00pm - 12:30pm:  <b>"Tool Integration for Source-Level Mixed Precision"</b>, Michael O. Lam, Tristan Vanderbruggen, Harshitha Menon, Markus Schordan </td> </tr>
-</table>
-
-###### Lunch Break
-<table>
-<tr><td width="15">  </td> <td><font color="007700">12:30pm - 02:00pm:  Lunch (on your own) </font></td> </tr>
-</table>
-
-###### Keynote 2
-<table>
-<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2:  <b>Contained Chaos: Quality Assurance for the Community Earth System Model</b>, Allison Baker (NCAR) </td> </tr>
-</table>
-
-###### Break
-<table>
-<tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC19) </font></td> </tr>
-</table>
-
-###### Invited Talk
-<table>
-<tr><td width="15">  </td> <td>03:30pm - 04:30pm:  <b> Taming the Digital Wild West: Using Domain Specific Languages to Enforce Correctness Properties in Data Science, Machine Learning, and Scientific Modeling </b>, <a href="https://galois.com/">Galois, Inc.</a>  </td> </tr>
-</table>
-
-###### Correctness in Algorithms and Applications (Chair: Markus Schordan)
-<table>
-<tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Bounded Verification of Sparse Matrix Computations"</b>, Tristan Dyer, Alper Altuntas, John Baugh</td> </tr>
-
-<tr><td width="15">  </td> <td>05:00pm - 05:30pm:  <b>"Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code"</b>, Daniel J. Milroy, Allison H. Baker, John M. Dennis, Andrew Gettelman, Dorit M. Hammerling </td> </tr>
-</table>
+TBD
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
