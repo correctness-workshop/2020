@@ -155,4 +155,5 @@ Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Ci
 ### <a class="anchor" name="previous">Previous Workshops</a>
 - [Correctness 2017](https://correctness-workshop.github.io/2017/)
 - [Correctness 2018](https://correctness-workshop.github.io/2018/)
+- [Correctness 2019](https://correctness-workshop.github.io/2019/)
 
