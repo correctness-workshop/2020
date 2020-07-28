@@ -114,6 +114,7 @@ All time zones are AOE.
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
+[Charisee Chiw](https://galois.com/team/charisee-chiw/), Galois, Inc, USA <br />
 [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
 [Jeff Huang](https://parasol.tamu.edu/~jeff/), Texas A&M University, USA <br />
@@ -122,7 +123,7 @@ All time zones are AOE.
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
 [Eric Petit](), Intel Corporation, France <br />
 [Joachim Protze](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
-[Tristan Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
+[Tristan Ravitch](https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
 [Stephen F. Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA  <br />
