@@ -6,20 +6,10 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<!---
-Correctness 2018: Second International Workshop on Software Correctness for HPC Applications
-------
-
-#### November 18, 2019
-#### Colorado Convention Center, <font color="FF0000">Room: TBD</font>
-#### Denver, Colorado, USA
-##### Held in conjunction with SC19: [The International Conference for High Performance Computing, Networking, Storage and Analysis](https://sc19.supercomputing.org/)
-##### In cooperation with [![SIGHPC](/img/SIGhpc_logo_small.png)](http://www.sighpc.org)
--->
-
 <center><h2>Correctness 2020: Fourth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 15, 2020 (half day) </h4></center>
-<center><h4> Georgia World Congress Center, <font color="0000FF">Room: TBD</font> </h4></center>
+<center><h4> November 11, 2020 (half day, 2:30 PM - 6:30 PM EDT) </h4></center>
+<center><h4> <font color="0000FF">Virtual Event</font> </h4></center>
+<center><h4> Georgia World Congress Center </h4></center>
 <center><h4> Atlanta, Georgia, USA </h4></center>
 <center><h5> Held in conjunction with SC20: <a href="https://sc20.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
@@ -132,9 +122,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-Georgia World Congress Center <br />
-285 Andrew Young International Blvd NW, Atlanta, GA 30313 <br />
-<font color="0000FF">Room: TBD</font>
+This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. We will provide more details about the virtual platform later.
 
 ---
 ### <a class="anchor" name="program">Program</a>
