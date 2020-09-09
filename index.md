@@ -87,6 +87,7 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 * Paper submissions due: ~~August 10, 2020~~ **Extended:** August 17, 2020
 * Notification of acceptance: September 21, 2020
 * E-copyright registration completed by authors (firm): October 5, 2020
+* Pre-recorded presentations (firm): October 7, 2020 
 * Camera-ready papers due (firm): October 9, 2020 
 
 All time zones are AOE.
@@ -122,7 +123,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. We will provide more details about the virtual platform later.
+This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. Presentations will be pre-recorded and presenters should be available to answer attendee questions via a live Q&A chat window. We will provide more details about the virtual platform later.
 
 ---
 ### <a class="anchor" name="program">Program</a>
