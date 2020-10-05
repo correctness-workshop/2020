@@ -129,13 +129,50 @@ This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. Presentatio
 ### <a class="anchor" name="program">Program</a>
 <br />
 
+**Keynote Speaker**
+<br />
 
-TBD
+#### [David H. Bailey](https://cs.ucdavis.edu/directory/david-bailey), Research Associate, University of California, Davis
+<img src="img/david-h-bailey.jpg" alt="David H. Bailey" width="180">
+
+**Bio:**
+David H. Bailey is a senior researcher in the HPC and mathematical computing fields.  He recently retired from the Lawrence Berkeley National Lab, and is currently a research associate at the University of California, Davis.  He is a co-author of the NAS Parallel Benchmarks, which are widely used in the field to assess and analyze system performance on scientific applications, and is also the author of a paper on the fast Fourier transform on hierarchal memory systems that is the basis for several efficient implementations on present-day systems.  He has received the Sidney Fernbach Award from the IEEE Computer Society, the Gordon Bell Prize from the Association for Computing Machinery, the Chauvenet Prize and the Merten Hasse Prize from the Mathematical Association of America, and the Levi L. Conant Prize from the American Mathematical Society.
+
+<br />
+#### *Reproducible scientific computing: Progress and challenges*
+
+**Abstract:** The field of high-performance computing has long been plagued by reproducibility problems.  In the early 1990s, lax standards for reporting performance led to considerable confusion and some loss of credibility for the field.  Even today, the HPC field significantly lags other fields of scientific research in establishing standards for reproducible research, even for such basic practices as thoroughly documenting computer runs with algorithm statements, source code, system environment and other key details.  Recently the issue of numerical reproducibility has risen to the fore, spurred both by the rapidly increasing scope and sophistication of large applications, which greatly magnify numerical sensitivities and precision requirements, as well as increased interest in machine learning and artificial intelligence, which has driven usage of half-precision and other forms of reduced-precision computing.  This talk will briefly summarize current work in the field and outline challenges that lie ahead.
+
+<br />
 
 #### Workshop Schedule
 <br />
 
-TBD
+###### Keynote
+<table>
+<tr><td width="15">  </td> <td>2:30pm - 2:35pm:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>2:35am - 3:20pm:  Keynote Speaker:  <b>"Reproducible scientific computing: Progress and challenges"</b>, David H. Bailey (University of California, Davis) </td> </tr>
+<tr><td width="15">  </td> <td>3:20pm - 3:30pm:  Keynote Q&A </td> </tr>
+</table>
+
+###### Papers (session 1)
+<table>
+<tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Invited paper: <b>"Correctness-preserving Compression of Datasets and Neural Network Models"</b>, Nithin Chalapathi, Vinu Joseph, Aditya Bhaskara, Mu Zhang, Pavel Panchekha, Ganesh Gopalakrishnan </td> </tr>
+<tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 1: <b>"Order Matters: A Case Study on Reducing Floating Point Error in Sums Through Ordering and Grouping"</b>, Brett Neuman, Laura Monroe, Terence Grove, Shane Fogerty, Christopher Mauney, Robert Robey, Vanessa Job </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td> 4:20pm - 4:50pm:  Break </td> </tr>
+</table>
+
+###### Papers (session 2)
+<table>
+<tr><td width="15">  </td> <td>4:50pm - 5:15pm:  Paper 2: <b>"Enhancing DataRaceBench for Evaluating Data Race Detection Tools"</b>, Yonghong Yan, Barbara M. Chapman, Gaurav Verma, Yaying Shi, Chunhua Liao </td> </tr>
+<tr><td width="15">  </td> <td>5:15pm - 5:40pm:  Paper 3: <b>"PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation"</b>, Patrick Carribault, Emmanuelle Saillard, Julien Jaeger, Van Man Nguyen, Denis Barthou </td> </tr>
+<tr><td width="15">  </td> <td>5:40pm - 6:05pm:  Paper 4: <b>"Towards Compiler-Aided Correctness Checking of Adjoint MPI Applications"</b>, Alexander Hück, Joachim Protze, Jan-Patrick Lehr </td> </tr>
+<tr><td width="15">  </td> <td>6:05pm - 6:30pm:  Paper 5: <b>"A Statistical Analysis of Error in MPI Reduction Operations"</b>, Samuel D. Pollard, Boyana Norris </td> </tr>
+</table>
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
