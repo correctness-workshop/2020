@@ -88,7 +88,7 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 * Notification of acceptance: September 21, 2020
 * E-copyright registration completed by authors: ~~October 5, 2020~~ **Extended:** October 16, 2020
 * Pre-recorded presentations (firm): October 7, 2020 
-* Camera-ready papers due (firm): October 9, 2020 
+* Camera-ready papers due: ~~October 9, 2020~~  **Extended:** October 16, 2020
 
 All time zones are AOE.
 
