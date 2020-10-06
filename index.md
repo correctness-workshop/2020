@@ -157,8 +157,9 @@ David H. Bailey is a senior researcher in the HPC and mathematical computing fie
 
 ###### Papers (session 1)
 <table>
-<tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Invited paper: <b>"Correctness-preserving Compression of Datasets and Neural Network Models"</b>, Nithin Chalapathi, Vinu Joseph, Aditya Bhaskara, Mu Zhang, Pavel Panchekha, Ganesh Gopalakrishnan </td> </tr>
-<tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 1: <b>"Order Matters: A Case Study on Reducing Floating Point Error in Sums Through Ordering and Grouping"</b>, Brett Neuman, Laura Monroe, Terence Grove, Shane Fogerty, Christopher Mauney, Robert Robey, Vanessa Job </td> </tr>
+<tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Invited paper: <b>"Correctness-preserving Compression of Datasets and Neural Network Models"</b>, Vinu Joseph, Nithin Chalapathi, Aditya Bhaskara, Ganesh Gopalakrishnan, Pavel Panchekha, Mu Zhang</td> </tr>
+
+<tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 1: <b>"Order Matters: A Case Study on Reducing Floating Point Error in Sums Through Ordering and Grouping"</b>, Vanessa Job, Terence Grove, Shane Fogerty, Christopher Mauney, Brett Neuman, Laura Monroe, Robert W. Robey  </td> </tr>
 </table>
 
 ###### Break
@@ -168,9 +169,12 @@ David H. Bailey is a senior researcher in the HPC and mathematical computing fie
 
 ###### Papers (session 2)
 <table>
-<tr><td width="15">  </td> <td>4:50pm - 5:15pm:  Paper 2: <b>"Enhancing DataRaceBench for Evaluating Data Race Detection Tools"</b>, Yonghong Yan, Barbara M. Chapman, Gaurav Verma, Yaying Shi, Chunhua Liao </td> </tr>
-<tr><td width="15">  </td> <td>5:15pm - 5:40pm:  Paper 3: <b>"PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation"</b>, Patrick Carribault, Emmanuelle Saillard, Julien Jaeger, Van Man Nguyen, Denis Barthou </td> </tr>
+<tr><td width="15">  </td> <td>4:50pm - 5:15pm:  Paper 2: <b>"Enhancing DataRaceBench for Evaluating Data Race Detection Tools"</b>, Gaurav Verma, Yaying Shi, Chunhua Liao, Barbara M. Chapman, Yonghong Yan </td> </tr>
+
+<tr><td width="15">  </td> <td>5:15pm - 5:40pm:  Paper 3: <b>"PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation"</b>, Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou, Patrick Carribault </td> </tr>
+
 <tr><td width="15">  </td> <td>5:40pm - 6:05pm:  Paper 4: <b>"Towards Compiler-Aided Correctness Checking of Adjoint MPI Applications"</b>, Alexander Hück, Joachim Protze, Jan-Patrick Lehr </td> </tr>
+
 <tr><td width="15">  </td> <td>6:05pm - 6:30pm:  Paper 5: <b>"A Statistical Analysis of Error in MPI Reduction Operations"</b>, Samuel D. Pollard, Boyana Norris </td> </tr>
 </table>
 
