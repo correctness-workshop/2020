@@ -22,6 +22,8 @@ In cooperation with <br />
 </a>
 </center>
 
+<br />
+<center><h4> <a href="https://submissions.supercomputing.org/?page=Submit&id=WorkshopEvaluation&site=sc20"> Evaluation Form Link</a> </h4></center>
 
 ----
 
