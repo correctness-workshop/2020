@@ -125,7 +125,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. Presentations will be pre-recorded and presenters should be available to answer attendee questions via a live Q&A chat window. We will provide more details about the virtual platform later.
+This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. Presentations will be pre-recorded and presenters should be available to answer attendee questions via a live Q&A chat window. Please use the SC20 Cadmium CD platform to access the event live at [https://www.eventscribe.com/2020/SC20](https://www.eventscribe.com/2020/SC20).
 
 ---
 ### <a class="anchor" name="program">Program</a>
