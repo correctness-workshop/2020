@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2020: Fourth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 11, 2020 (half day, 2:30 PM - 6:30 PM EDT) </h4></center>
+<center><h4> November 11, 2020 (half day, 2:30 PM - 6:30 PM EST) </h4></center>
 <center><h4> <font color="0000FF">Virtual Event</font> </h4></center>
 <center><h4> Georgia World Congress Center </h4></center>
 <center><h4> Atlanta, Georgia, USA </h4></center>
@@ -125,7 +125,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-This workshop will be a virtual event between 2:30 PM - 6:30 PM EDT. Presentations will be pre-recorded and presenters should be available to answer attendee questions via a live Q&A chat window. Please use the SC20 Cadmium CD platform to access the event live at [https://www.eventscribe.com/2020/SC20](https://www.eventscribe.com/2020/SC20).
+This workshop will be a virtual event between 2:30 PM - 6:30 PM EST. Presentations will be pre-recorded and presenters should be available to answer attendee questions via a live Q&A chat window. Please use the SC20 Cadmium CD platform to access the event live at [https://www.eventscribe.com/2020/SC20](https://www.eventscribe.com/2020/SC20).
 
 ---
 ### <a class="anchor" name="program">Program</a>
